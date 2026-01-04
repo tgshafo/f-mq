@@ -244,7 +244,7 @@ const members = [
         description: "🏴‍☠️ CEO — @swatskids. Твинков не имею!",
         avatar: "img/avatar13.png",
         verified: true,
-        pinned: false,
+        pinned: true,
         project: "https://t.me/+5HTCiQrXtOY3Mjhk",
         telegram: "kraplov",
         chat: null,
