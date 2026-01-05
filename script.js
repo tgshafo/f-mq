@@ -2,7 +2,7 @@
 const members = [
     {
         id: 1,
-        nickname: "шафо",
+        nickname: "АКК УТЕРЯН",
         username: "@nothevo",
         category: "Владелец",
         role: "Владелец",
